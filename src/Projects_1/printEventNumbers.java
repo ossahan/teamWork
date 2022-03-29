@@ -35,10 +35,5 @@ public class printEventNumbers {
 //            System.out.print(i);
 //        }
 
-        for (int i = 0; i <=maxNum ; i++) {
-            if(i%2==0){
-                System.out.println(i);
-            }
-        }
     }
 }
