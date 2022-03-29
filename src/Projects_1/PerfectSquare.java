@@ -42,17 +42,6 @@ public class PerfectSquare {
         //  code Start here don't change before this line
         // kodu burdan başlatın ve bu satırdan önceki kodları değiştirmeyin
 
-        int x = 0;
-        for (int i = 0; i <= input / 2 + 1; i++) {
-
-            if (input == i * i) {
-                x = 1;
-            }
-        }
-        if (x == 1) {
-            System.out.println("true");
-        } else {
-            System.out.println("false");
-        }
+        
     }
 }
