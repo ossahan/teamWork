@@ -29,12 +29,7 @@ public class FactorialNummer {
 
         //      code start here  use int number
         //      kodu burdan başlatın ve int number kullanın
-        int faktoriyel=1;
-        for (int i = 1; i <=number ; i++) {
-            faktoriyel*=i;
-        }
-        System.out.println(faktoriyel);
-
+        
     }
 
 }
