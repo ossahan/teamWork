@@ -21,15 +21,21 @@ public class FactorialNummer {
         output ---> 720
          */
 
-        Scanner dp = new Scanner(System.in);
-
-        String  strNum = dp.nextLine();
-
-        int number = Integer.parseInt(strNum);
+        Scanner dp = new Scanner(System.in);     // kullanici dan sayi alma
+        
+        String  strNum = dp.nextLine();  // atama
+            
+        int number = Integer.parseInt(strNum);   // strign i int e cevirme (.parseInt) ve atama yapildi
 
         //      code start here  use int number
         //      kodu burdan başlatın ve int number kullanın
-        
+        int faktoriyel=1;
+        // faktoriyel islemler 1 den basladigi icin atama 1 den baslar. gibi (factorial:1*2*3*4*5*6=720)
+        for (int i = 1; i <=number ; i++) {
+         //(islem) 1 den basladi ; scan ile aldigimiz sayi ya esit olana kadar (kosul); artma olur
+            faktoriyel*=i;// her dongude i artarak carpma islemi olur
+        }
+        System.out.println(faktoriyel);
     }
 
 }
