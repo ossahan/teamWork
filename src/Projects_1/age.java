@@ -35,9 +35,17 @@ public class age {
         System.out.println("yasinizi giriniz : ");
         int myAge = scanner.nextInt();
 
+        if (myAge <=10){
+
+            System.out.println("Facebook hesabi acmak icin cok gencsin");
+        }else if (myAge <=16){
+            System.out.println("Ehliyet almak icin cok gencsin");
+
+        }
+
         //  code Start here don't change before this line
 
-        System.out.println("too young to drink alcohol");
+        //System.out.println("too young to drink alcohol");
 
         // kodu burdan baslatin ve bu satirdan onceki kodlari degistirmeyin
 
