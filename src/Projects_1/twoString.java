@@ -4,6 +4,7 @@ package Projects_1;
 public class twoString {
     public static void main(String[] args) {
         System.out.println("defgsiklil");
+        System.out.println("bir diger degsiklik");
 
 
 
