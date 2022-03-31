@@ -20,6 +20,6 @@ public class totalLetterCountCheck {
 
         //  code Start here don't change before this line
         // kodu burdan başlatın ve bu satırdan önceki kodları değiştirmeyin
-       
+       //kodu burdan başlatın ve bu satırdan önceki kodları değiştirmeyin
     }
 }
