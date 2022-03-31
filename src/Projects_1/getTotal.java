@@ -49,6 +49,7 @@ public class getTotal {
         // String num1,num2,num3 kullanın
 
         System.out.println("Degisiklik");
+        System.out.println("          ");
 
 
 
