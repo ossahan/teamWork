@@ -32,17 +32,25 @@ public class age {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("yasinizi giriniz : ");
+        System.out.println("Yasinizi giriniz : ");
         int myAge = scanner.nextInt();
 
-        //  code Start here don't change before this line
+        if (myAge <=10){
 
-        System.out.println("too young to drink alcohol");
+            System.out.println("Facebook hesabi acmak icin cok gencsin");
+        }else if (myAge <=16){
+            System.out.println("Ehliyet almak icin cok gencsin");
 
-        // kodu burdan baslatin ve bu satirdan onceki kodlari degistirmeyin
+        }else if (myAge<=18){
+            System.out.println("Dovme yaptirmak icin cok gencsin");
 
+        }else if (myAge<=20){
+            System.out.println("Alkol icmek icin cok gencsin");
 
-        
+        }else if (myAge>=21){
+
+            System.out.println("Istedigini yapabilirsin");
+        }
 
     }
 }
