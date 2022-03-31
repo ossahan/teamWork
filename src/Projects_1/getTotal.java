@@ -48,8 +48,6 @@ public class getTotal {
         // kodu burdan başlatın ve bu satırdan önceki kodlari değiştirmeyin
         // String num1,num2,num3 kullanın
 
-        System.out.println("Degisiklik");
-        System.out.println("          ");
 
 
 
