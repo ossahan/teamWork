@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e3c4ce1-8999-4470-97b5-ae7dcd573015" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Projects_1/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/Eklenti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/PerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/RandomNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/RandomNumberBetweenTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/checkNumberEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/countE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/getTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/printEventNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/totalLetterCountCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects_1/twoString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Projects_1" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27EwQvFKqWH3Ge7O2h1e3IP1m8d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="printEventNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects_1.printEventNumbers" />
+      <module name="teamWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Projects_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.printEventNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e3c4ce1-8999-4470-97b5-ae7dcd573015" name="Changes" comment="" />
+      <created>1648898542020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648898542020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="381bedce-010d-4489-ad2c-cf17fd49f5ab">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MERGE_COMMITS" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
